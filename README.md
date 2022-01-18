@@ -2,6 +2,7 @@
 
 - 👩‍💻 Estudo Desenvolvimento de Sistemas
 - 💛 Apaixonada por Front-End
+- 🐱‍🏍 Fissurada em Banco de Dados
 - ⭐ Amante dos livros
 
 <div align="center">
