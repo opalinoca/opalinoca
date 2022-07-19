@@ -1,8 +1,8 @@
 ### Olá, eu sou a Aline Vieira 👋
 
-- 👩‍💻 Estudo Desenvolvimento de Sistemas
+- 👩‍💻 Sou técnica Desenvolvimento de Sistemas
 - 💛 Apaixonada por Front-End
-- 🐱‍🏍 Fissurada em Banco de Dados
+- 🐱‍🏍 Iniciante em Design
 - ⭐ Amante dos livros
 
 <div align="center">
