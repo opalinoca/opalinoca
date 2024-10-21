@@ -1,8 +1,8 @@
 ### Olá, eu sou a Aline Vieira 👋
 
-- 👩‍💻 Técnica Desenvolvimento de Sistemas
-- 💛 Apaixonada por Front-End
-- 🐱‍🏍 Iniciante em Design
+- 👩‍💻 Técnica Desenvolvimento de Sistemas, e universitária em Análise e Desenvolvimento de Sistemas
+- 💛 Apaixonada por Front-End e UI/UX Design
+- 🐱‍🏍 Dev Jr Full-Stack
 - ⭐ Amante dos livros
 
 <div align="center">
